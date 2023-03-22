@@ -7,20 +7,20 @@ AFRAME.registerComponent("comics-posters", {
     posters: function() {
       const postersRef = [
         {
-          id: "superman",
+          id: "ant-man",
           url: "./assets/ant-man.jpg"
         },
         {
-          id: "spiderman",
+          id: "black-panther",
           url: "./assets/black panther.jpg"
         },
   
         {
-          id: "captain-aero",
+          id: "Justice-league",
           url: "./assets/Justice league.jpg"
         },
         {
-          id: "outer-space",
+          id: "spiderman",
           url: "./assets/spiderman no way home.jpg"
         }
       ];
